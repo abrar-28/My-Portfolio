@@ -909,7 +909,9 @@ a {
 .portfolio-6 {
 	background-image: url(./images/5\ \(1\).png);
 }
-
+.portfolio-7 {
+	background-image: url(./images/7.jpg);
+}
 .portfolio-img::before {
 	content: "";
 	position: absolute;
