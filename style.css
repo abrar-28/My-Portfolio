@@ -121,7 +121,7 @@ a {
 	cursor: pointer;
 }
 
-.hero-btn-1 a {
+.hero-btn-1 a , .hero-btn-2 a{
 	color: var(--background-color);
 }
 
