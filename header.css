@@ -19,7 +19,8 @@ header {
 	background: var(--background-color);
 	color: var(--text-color);
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-	position: fixed;   /* stays at top always */
+	position: fixed;
+	/* stays at top always */
 	top: 0;
 	left: 0;
 	width: 100%;
@@ -28,7 +29,8 @@ header {
 
 body {
 	margin: 0;
-	padding-top: 70px; /* to avoid content being hidden behind the fixed header */
+	padding-top: 70px;
+	/* to avoid content being hidden behind the fixed header */
 }
 
 .header-container {
@@ -44,6 +46,23 @@ body {
 	font-size: 2rem;
 	font-weight: bold;
 	color: black;
+}
+
+.shiny {
+	mask: linear-gradient(-60deg, #ffffff 30%, #ffffff55, #000 50%) right / 300% 100%;
+	animation: logoShine 3s infinite;
+}
+
+@keyframes logoShine {
+
+	0% {
+		mask-position: 140% 140%;
+	}
+
+	100% {
+		mask-position: -20% -20%;
+	}
+
 }
 
 /* NAV MENU (DESKTOP) */
@@ -128,7 +147,8 @@ nav ul li a:hover::after {
 	}
 
 	nav.active {
-		max-height: 500px; /* enough for menu items */
+		max-height: 500px;
+		/* enough for menu items */
 		opacity: 1;
 	}
 
