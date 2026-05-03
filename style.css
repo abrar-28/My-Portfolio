@@ -891,7 +891,7 @@ a {
 }
 
 .portfolio-2 {
-	background-image: url(./images/Bisma\ Shoes.jpg);
+	background-image: url(./images/Horeca\ Nova.jpg);
 }
 
 .portfolio-3 {
@@ -911,6 +911,15 @@ a {
 }
 .portfolio-7 {
 	background-image: url(./images/7.jpg);
+}
+.portfolio-8 {
+	background-image: url(./images/Biopulse.jpg);
+}
+.portfolio-9 {
+	background-image: url(./images/Dropship\ Lab.jpg)
+}
+.portfolio-10 {
+	background-image: url(./images/SLVR\ Wear\ ™.jpg)
 }
 .portfolio-img::before {
 	content: "";
