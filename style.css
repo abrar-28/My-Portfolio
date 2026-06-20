@@ -921,6 +921,18 @@ a {
 .portfolio-10 {
 	background-image: url(./images/SLVR\ Wear\ ™.jpg)
 }
+.portfolio-11 {
+	background-image: url(./images/koylakings.jpg)
+}
+.portfolio-12 {
+	background-image: url(./images/techcruse.jpg)
+}
+.portfolio-13 {
+	background-image: url(./images/innovex.jpg)
+}
+.portfolio-14 {
+	background-image: url(./images/fafsinfo.jpg)
+}
 .portfolio-img::before {
 	content: "";
 	position: absolute;
