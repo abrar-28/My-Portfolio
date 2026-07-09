@@ -919,7 +919,7 @@ a {
 	background-image: url(./images/Dropship\ Lab.jpg)
 }
 .portfolio-10 {
-	background-image: url(./images/SLVR\ Wear\ ™.jpg)
+	background-image: url(./images/SLWR.jpg)
 }
 .portfolio-11 {
 	background-image: url(./images/koylakings.jpg)
@@ -932,6 +932,48 @@ a {
 }
 .portfolio-14 {
 	background-image: url(./images/fafsinfo.jpg)
+}
+.portfolio-15 {
+	background-image: url(./images/Bridgette.jpg)
+}
+.portfolio-16 {
+	background-image: url(./images/Aaquebic.jpg)
+}
+.portfolio-17 {
+	background-image: url(./images/Kingdom\ Driven\ Business.jpg)
+}
+.portfolio-18 {
+	background-image: url(./images/Braces\ Fases.jpg)
+}
+.portfolio-19 {
+	background-image: url(./images/Vocal\ Leaf\ tea.jpg)
+}
+.portfolio-20 {
+	background-image: url(./images/Vambunny.jpg)
+}
+.portfolio-21 {
+	background-image: url(./images/Pan\ Bangels.jpg)
+}
+.portfolio-22 {
+	background-image: url(./images/Full\ Conopy.jpg)
+}
+.portfolio-23 {
+	background-image: url(./images/Three\ 8.jpg)
+}
+.portfolio-24 {
+	background-image: url(./images/Trippy\ Fam.jpg)
+}
+.portfolio-25 {
+	background-image: url(./images/Velvet\ Cap.jpg)
+}
+.portfolio-26 {
+	background-image: url(./images/Micro.jpg)
+}
+.portfolio-27 {
+	background-image: url(./images/Shad\ \ Packs.jpg)
+}
+.portfolio-28 {
+	background-image: url(./images/HA\ Cars\ Rental.jpg)
 }
 .portfolio-img::before {
 	content: "";
@@ -966,12 +1008,12 @@ a {
 }
 
 .portfolio-img h4 {
-	font-size: 25px;
+	font-size: 23px;
 	margin-bottom: 10px;
 }
 
 .portfolio-img p {
-	font-size: 16px;
+	font-size: 15px;
 	text-transform: capitalize;
 }
 
