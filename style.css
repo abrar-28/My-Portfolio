@@ -975,6 +975,9 @@ a {
 .portfolio-28 {
 	background-image: url(./images/HA\ Cars\ Rental.jpg)
 }
+.portfolio-29 {
+	background-image: url(./images/Hayat-e-Nau.jpg)
+}
 .portfolio-img::before {
 	content: "";
 	position: absolute;
