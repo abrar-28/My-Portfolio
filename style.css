@@ -978,6 +978,9 @@ a {
 .portfolio-29 {
 	background-image: url(./images/Hayat-e-Nau.jpg)
 }
+.portfolio-30 {
+	background-image: url(./images/Ai\ Sec\ Master.jpg)
+}
 .portfolio-img::before {
 	content: "";
 	position: absolute;
